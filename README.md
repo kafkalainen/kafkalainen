@@ -7,5 +7,6 @@ Here are some projects that I have done:
 - Building fractal explorer program. [Link](https://github.com/kafkalainen/fractol)
 - Securing and managing VPS and automating
 deployment of a web application. [Link](https://github.com/kafkalainen/roger-skyline-1)
-- Learning to Dockerize applications. [Link](https://github.com/kafkalainen/docker-1) 
-- 🌱 Currently we are creating Duke Nukem gaming engine. See my projects for more info!
+- Learning to Dockerize applications. [Link](https://github.com/kafkalainen/docker-1)
+- Creating a 2.5d game engine from scratch. [Link](https://github.com/kafkalainen/wolf3d) 
+- 🌱 Currently we are creating 3d gaming engine using some raycaster magic. See my projects for more info!
