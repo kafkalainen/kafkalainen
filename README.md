@@ -1,5 +1,5 @@
 👋 Hello there sojourner! I’m Joonas Nivala.
-👀 I’m interested in Web and Game development.
+👀 I’m interested in Games development.
 
 Here are some projects that I have done:
 - ✔️ Reimplementing some of C library functions.[Link](https://github.com/kafkalainen/libft_reloaded)
