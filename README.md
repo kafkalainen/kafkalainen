@@ -12,4 +12,4 @@ Here are some projects that I have done:
 - 🐒 Practice project for C++ and OpenGL [Link](https://github.com/kafkalainen/cplusplus)
 - 🎮 Practice repository for C# and Unity, updated almost daily! [Link](https://github.com/kafkalainen/unity_project)
 - 🐝 A kickstart guide to speed up your start at Hive Helsinki [Link](https://github.com/kafkalainen/beekeepers-guide)
-- 🕵️ Currently I'm looking for work!
+- 🕵️ Currently employed!
