@@ -1,4 +1,4 @@
-👋 Hello there sojourner! I’m Joonas Nivala.
+👋 Greetings there, sojourner! I’m Joonas Valamäki.
 👀 I’m interested in Games development.
 
 Here are some projects that I have done:
