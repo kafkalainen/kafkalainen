@@ -10,6 +10,7 @@ Here are some projects that I have done:
 - 🐺 Creating a 2.5d game engine from scratch. [Link](https://github.com/kafkalainen/wolf3d)
 - 🔥 Creating a cross between 2.5d and 3d engine and first-person shooter game from scratch [Link](https://github.com/kafkalainen/doom_nukem)
 - 🐒 Practice project for C++ and OpenGL [Link](https://github.com/kafkalainen/cplusplus)
-- 🎮 Practice repository for C# and Unity, updated almost daily! [Link](https://github.com/kafkalainen/unity_project)
+- 🎮 Practice repository for C# and Unity. [Link](https://github.com/kafkalainen/unity_project)
+- 🥽 Sped. Speed game made with C++ and SFML. [Link](https://github.com/kafkalainen/sped)
 - 🐝 A kickstart guide to speed up your start at Hive Helsinki [Link](https://github.com/kafkalainen/beekeepers-guide)
 - 🕵️ Currently employed!
