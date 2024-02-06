@@ -13,4 +13,5 @@ Here are some projects that I have done:
 - 🎮 Practice repository for C# and Unity. [Link](https://github.com/kafkalainen/unity_project)
 - 🥽 Sped. Speed game made with C++ and SFML. [Link](https://github.com/kafkalainen/sped)
 - 🐝 A kickstart guide to speed up your start at Hive Helsinki [Link](https://github.com/kafkalainen/beekeepers-guide)
+- 🚁 Flying drones in an Unreal Engine simulation [Link](https://github.com/kafkalainen/UnrealTestProject)
 - 🕵️ Currently employed!
